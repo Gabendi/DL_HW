@@ -1,7 +1,7 @@
 # DL_HW
 
 Third hw:
-
+Budapest.csv is the DB i used for this task.
 Please load the model first and it will show you the predictions in the code you run after, which are:
 Octover 30.: 3.7926354
 Nov. 5: 7.7215395
